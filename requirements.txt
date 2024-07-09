@@ -100,7 +100,7 @@ tomli==2.0.1
     # via pytest
 watchdog==2.3.1
     # via mkdocs
-zipp==3.17.0
+zipp==3.19.1
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
