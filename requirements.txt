@@ -6,7 +6,7 @@
 #
 asgiref==3.8.1
     # via django
-certifi==2024.6.2
+certifi==2024.7.4
     # via requests
 charset-normalizer==3.3.2
     # via requests
@@ -24,7 +24,7 @@ djangorestframework==3.15.1
     # via -r requirements.in
 ghp-import==2.1.0
     # via mkdocs
-griffe==0.47.0
+griffe==0.48.0
     # via mkdocstrings-python
 idna==3.7
     # via requests
@@ -107,7 +107,7 @@ six==1.16.0
     # via
     #   isodate
     #   python-dateutil
-sqlparse==0.5.0
+sqlparse==0.5.1
     # via django
 urllib3==2.2.2
     # via requests
